@@ -1,9 +1,8 @@
 /*This code is only valid for CSE department of NIT Agartala */
 #include<iostream>
 using namespace std;
-/*There can be some errors during calculation so
- it is advised to calculate using normal formula on a paper
-*/
+/* There can be some errors during calculation so
+ it is advised to calculate using normal formula on a paper */
 int main(){
     cout<<"......CSE......"<<endl;
     int arr[8]={22,22,24,21,24,27,13,13};
@@ -30,6 +29,5 @@ int main(){
         cout<<"Since total cgpa is of 10 ...you can't get the "<<cgpa<<" cgpa in next sem but you need to try to get max so that at the end of sem 8 you can achive your required cg"<<endl;//margan
     }
     return 0;
-}
 } //coded by Margan 
 //github profile link  https://github.com/Mr-Nobody003
